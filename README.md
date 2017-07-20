@@ -9,17 +9,12 @@ The 2 of Clubs is revealed first, communicating to the magician that the hidden 
 
 Next, the assistant reveals three more cards in an order (based on card rank) such that it communicates to the magician what number to add to the first card in order to deduce the hidden card. The scheme suggested in the paper is this:
 
-Cards are revealed small, middle, large: add 1
-
-Cards are revealed small, large, middle: add 2
-
-Cards are revealed middle, small, large: add 3
-
-Cards are revealed middle, large, small: add 4
-
-Cards are revealed large, small, middle: add 5
-
-Cards are revealed large, middle, small: add 6
+Cards are revealed small, middle, large: add 1  
+Cards are revealed small, large, middle: add 2  
+Cards are revealed middle, small, large: add 3  
+Cards are revealed middle, large, small: add 4  
+Cards are revealed large, small, middle: add 5  
+Cards are revealed large, middle, small: add 6  
 
 In the example given above, the cards would be revealed in the order of large, middle, small (2 + 6 = 8 of Clubs).
 
